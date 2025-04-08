@@ -15,7 +15,6 @@ BrickGame is a collection of simple, classic-style games inspired by retro handh
 More games are planned and will be added over time — all in one lightweight app.
 
 🔹 No complex menus
-🔹 No ads (for now 😉)
 🔹 Just pure gameplay fun
 
 Whether you're looking to kill a few minutes or enjoy a nostalgic break, BrickGame is the perfect companion.

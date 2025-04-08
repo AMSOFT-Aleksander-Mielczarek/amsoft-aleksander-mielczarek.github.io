@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Welcome to My Org
+# Welcome to AMSOFT
 
 We are a one-person powerhouse building awesome stuff.
